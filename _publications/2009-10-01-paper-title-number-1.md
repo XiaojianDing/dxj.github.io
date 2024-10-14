@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Multi-View Randomized Kernel Classification via Nonconvex Optimization"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2024-02-20-multi-view-randomized-kernel-classification
+excerpt: 'This paper presents a multi-view randomized kernel classification method using nonconvex optimization techniques.'
+date: 2024-02-20
+venue: 'In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Vancouver, Canada'
+slidesurl: ''
+paperurl: ''
+citation: 'Xiaojian Ding, Fan Yang. (2024). &quot;Multi-View Randomized Kernel Classification via Nonconvex Optimization.&quot; <i>In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)</i>, Vancouver, Canada, Feb 20-27, 2024.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper presents a novel approach for multi-view classification using randomized kernel methods. The proposed method leverages nonconvex optimization to improve classification performance across multiple views.
